@@ -7,7 +7,14 @@
       "format": "LINKED_PLACES",
       "src": "./data/VisitPlus-UK.lp.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
+    },
+    {
+      "name": "Earthquake Observer",
+      "format": "LINKED_PLACES",
+      "src": "./data/Peripleo_Data_1733823327.json",
+      "attribution": "<a href="" target="_blank">Earthquake LOD</a>"
     }
+
   ],
   "facets": [
     "type"
