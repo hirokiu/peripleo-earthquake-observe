@@ -12,7 +12,7 @@
       "name": "Earthquake Observer",
       "format": "LINKED_PLACES",
       "src": "./data/Peripleo_Data_1733823327.json",
-      "attribution": "<a href="" target="_blank">Earthquake LOD</a>"
+      "attribution": "<a href="https://seismic.balog.jp/ontology" target="_blank">Earthquake LOD</a>"
     }
 
   ],
