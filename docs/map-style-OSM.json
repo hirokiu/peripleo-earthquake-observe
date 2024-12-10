@@ -43,7 +43,6 @@
         "Open-Street-Map": {
             "type": "vector",
             "tiles": [
-                "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
                 "https://cyberjapandata.gsi.go.jp/xyz/optimal_bvmap-v1/{z}/{x}/{y}.pbf"
             ],
             "tileSize": 256,
