@@ -41,9 +41,9 @@
     "bearing": 0,
     "sources": {
         "Open-Street-Map": {
-            "type": "vector",
+            "type": "raster",
             "tiles": [
-                "https://cyberjapandata.gsi.go.jp/xyz/optimal_bvmap-v1/{z}/{x}/{y}.pbf"
+                "https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png"
             ],
             "tileSize": 256,
             "attribution": "OpenStreetMap contributors"
